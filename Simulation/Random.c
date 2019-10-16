@@ -1,4 +1,4 @@
-#include <random.h>
+#include "../Simulation/Random.h"
 
 long A = 23597;
 long B = 0;
